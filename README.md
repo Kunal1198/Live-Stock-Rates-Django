@@ -4,3 +4,5 @@ Implemented real time and historical data in JSON through API to fetch stocks an
 Displayed live Stocks OHLC(Open, High, Low, Close) prices of various companies. 
 
 Also displayed Cryptocurrency prices of BTC, ETH, LTC, BCH.
+
+Technology used : Django (Python Framework), JSON, HTML5, CSS.
